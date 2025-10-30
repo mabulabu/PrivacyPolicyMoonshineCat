@@ -1,0 +1,48 @@
+# Privacy Policy for Moonshine Cat
+
+**Effective Date:** October 30, 2025
+
+This privacy policy governs your use of the software application Moonshine Cat ("Application") for mobile devices that was created by Studio Dreamy ("we," "us," "our").
+
+### What information does the Application collect and how is it used?
+
+**Automatically Collected Information**
+
+The Application may collect certain information automatically, including, but not limited to:
+
+*   The type of mobile device you use, your mobile device's unique device ID (such as the Google Advertising ID).
+*   The IP address of your mobile device.
+*   Your mobile operating system.
+*   Information about the way you use the Application, such as session length, features accessed, and in-game events.
+
+This data is primarily used for the purpose of improving our game and providing a better user experience.
+
+### Third-Party Services
+
+Our Application may contain third-party services, such as advertising and analytics. These services help us understand how our users interact with our game and allow us to provide ads. The privacy policies of these third-party service providers will apply to their collection and use of your information.
+
+We use the following third-party services:
+
+*   **Google Play Services:** We use Google Play Services for features such as achievements and leaderboards. [Google Privacy Policy](https://policies.google.com/privacy)
+*   **Unity Ads & Analytics:** Our game is built with the Unity engine, which may use Unity Ads to show advertisements and Unity Analytics to collect anonymous usage data to help us improve the game. [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
+*   **(Optional - Add if you use AdMob) Google AdMob:** We may use Google AdMob to serve advertisements within the Application. [Google AdMob Privacy Policy](https://support.google.com/admob/answer/6128543)
+
+These third parties may have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Children's Privacy
+
+We do not knowingly collect personally identifiable information from children under the age of 13. If we discover that a child under 13 has provided us with personal information, we will delete it from our servers immediately. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+
+### Data Security
+
+We value your trust in providing us your information and are striving to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+
+### Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+**Erdbaren@gmail.com**
